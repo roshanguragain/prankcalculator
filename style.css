@@ -1,0 +1,17 @@
+.arbutus-regular {
+  font-family: "Arbutus", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.wrapper {
+  background: rgb(17, 81, 17);
+  width: 100vw;
+  height: 100vh;
+}
